@@ -1,0 +1,94 @@
+﻿
+/*כיוון ימין, גודל מסך,גופן*/
+body {
+    direction: rtl;
+    background-size: cover;
+    width: 960px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    background-color: cadetblue;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+
+input[type ='submit'] {
+    margin-top: 10px;
+}
+
+
+.logo {
+    background-size: cover;
+    margin-right: -150px;
+}
+
+.box {
+    -webkit-border-radius: 25px 25px 25px 25px;
+    border-radius: 25px 25px 25px 25px;
+    background-color: white;
+    text-align: center;
+    height: 600px;
+    font-size: 26px;
+    margin-right: 70px;
+}
+
+
+
+.icons {
+    margin-top: 370px;
+    width: 500px;
+    margin-left: 40px;
+}
+
+.design {
+    margin-right: 230px;
+    margin-top: -130px;
+    font-size: 14px;
+}
+
+.tech {
+    margin-right: 460px;
+    margin-top: -85px;
+    font-size: 14px;
+}
+
+.teach {
+    margin-right: 670px;
+    margin-top: -85px;
+    font-size: 14px;
+}
+
+.head {
+    margin-top: -480px;
+    margin-right: 350px;
+    font-size: 21px;
+}
+
+#page {
+    margin-top: 250px;
+}
+
+.amit {
+    width: 200px;
+    height: 200px;
+    margin-top: 280px;
+    margin-right: 60px;
+}
+
+.explain {
+    margin-top: -200px;
+    margin-right: 290px;
+}
+
+#form {
+    margin-top: 20px;
+    margin-right: 290px;
+}
+
+.telem {
+    margin-top: 30px;
+    margin-right: 415px;
+}
